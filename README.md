@@ -1,1 +1,1 @@
-# Single-Product-Store
+# E-Commerce / Single-Product-Store
